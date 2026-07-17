@@ -1,0 +1,13 @@
+# WordPress configuration
+wp-config.php
+
+# Cache
+wp-content/cache/
+wp-content/uploads/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

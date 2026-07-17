@@ -1,0 +1,112 @@
+/*=======================
+   RTL CSS
+======================= */
+
+:root {
+    --primary-theme-color: #543BDE !important;
+}
+body{
+	font-family: "Lato", sans-serif;
+}
+.header-two,.read-more a,.widget_block .wp-block-search .wp-block-search__button, .page-content .search-form .search-submit, .widget_search .search-form .search-submit,#c-scroll:hover,.footer-one,.pagination .page-numbers:hover, .pagination .current{
+	background: var(--primary-theme-color);
+}
+
+.wp-block-calendar .wp-calendar-table tbody tr td#today, .widget_calendar .calendar_wrap .wp-calendar-table tbody tr td#today, .search-form .search-submit,.widget_block .wp-block-tag-cloud a:hover, .widget_tag_cloud .tagcloud a:hover{
+	background-color:  var(--primary-theme-color) !important;
+}
+
+.widget_block .wp-block-search .wp-block-search__button,.main-navigation .menu .children .page_item > a::before, .main-navigation .menu .dropdown-menu .menu-item > a::before,.comments-area .form-submit .submit{
+	background:  var(--primary-theme-color) !important;
+}
+
+.blog-2 .post-meta {
+	background: hsl(221.13deg 100% 50% / 27%) 100% 0%;
+}
+
+.read-more a{
+	outline-color:  var(--primary-theme-color);
+}
+
+.pagination .page-numbers, .pagination .current{
+	border-color:  var(--primary-theme-color);
+}
+
+.comments-area .comment-form-comment textarea:focus, .comments-area .comment-form-comment textarea:hover,.widget_block .wp-block-tag-cloud a:hover, .widget_tag_cloud .tagcloud a:hover{
+	border-color:  var(--primary-theme-color) !important;
+}
+
+.read-more a:hover,a:hover, a:active,#primary-menu .current-menu-item a,h5 a:hover, h6 a:hover,.post-meta li a:hover,.post-tags a:hover{
+	color:  var(--primary-theme-color);
+}
+
+#primary-menu .menu-item:hover .nav-link,.main-navigation .menu .children .page_item:hover>a, .main-navigation .menu .dropdown-menu .menu-item:hover>a{
+	color:  var(--primary-theme-color) !important;
+}
+
+.main-navbar{
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.ac-btn:hover, input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, button:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce input[type=submit].button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #respond input#submit.disabled, .woocommerce #respond input#submit:disabled, .woocommerce #respond input#submit:disabled[disabled], .woocommerce a.button.disabled, .woocommerce a.button:disabled, .woocommerce a.button:disabled[disabled], .woocommerce button.button.disabled, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled], .woocommerce input.button.disabled, .woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce #respond input#submit.disabled:hover, .woocommerce #respond input#submit:disabled:hover, .woocommerce #respond input#submit:disabled[disabled]:hover, .woocommerce a.button.disabled:hover, .woocommerce a.button:disabled:hover, .woocommerce a.button:disabled[disabled]:hover, .woocommerce button.button.disabled:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button:disabled[disabled]:hover, .woocommerce input.button.disabled:hover, .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt:disabled[disabled], .woocommerce #respond input#submit.alt:disabled[disabled]:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt:disabled[disabled], .woocommerce a.button.alt:disabled[disabled]:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt:disabled[disabled], .woocommerce button.button.alt:disabled[disabled]:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt:disabled[disabled], .woocommerce input.button.alt:disabled[disabled]:hover {
+    background-color:  var(--primary-theme-color) !important;
+    color: #ffffff;
+}
+#page #primary-menu a.nav-link,
+#page #primary-menu li:hover a.nav-link ,
+#page #primary-menu li{
+	color: #fff !important;
+}
+.single-post .comment-list{
+	margin-right: 0px;
+}
+.footer-copyright a:hover{
+	color: #000;
+}
+.sp-100 {
+    padding-bottom: 30px !important;
+}
+.page-template-easy_bookmark_listing .esbmrk-posts-grid .esbmrk-article a.esbmrk-article-title:hover {
+    color: #543BDE;
+}
+.popmake-content .wpcf7-form .row{
+	column-gap: 25px !important; 
+}
+.pum-container input{
+	margin-top: 10px !important;
+}
+.pum-container.pum-responsive.pum-responsive-medium {
+	margin-right: 0% !important;
+	width: 423px !important;
+	right: 50% !important;
+	transform: translateX(50%);
+}
+@media (min-width: 1700px) {
+    .page .container {
+        max-width: 1360px !important;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+	.page-template-easy_bookmark_listing .esbmrk-posts-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 20px;
+    }
+}
+@media (min-width: 300px) and (max-width: 600px) {
+    .page-template-easy_bookmark_listing .esbmrk-posts-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 20px;
+    }
+	.pum-container.pum-responsive.pum-responsive-medium {
+		width: 300px !important;
+	}
+}
+@media screen and (min-width: 766px) and (max-width: 1024px) {
+    .ekit_menu_responsive_mobile .elementskit-menu-container {
+        overflow-x: hidden !important;
+    }
+}

@@ -1,0 +1,615 @@
+# Copyright (C) 2026 thryve-corporate
+# This file is distributed under the same license as the thryve-corporate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: thryve-corporate\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-06 04:19+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:28
+msgid "Arrow icon"
+msgstr ""
+
+#: ../functions.php:51
+msgid "Pill"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Checkmark"
+msgstr ""
+
+#: ../functions.php:93
+msgid "With arrow"
+msgstr ""
+
+#: ../functions.php:111
+msgid "With asterisk"
+msgstr ""
+
+#: ../functions.php:173, ../inc/theme-info/theme-info.php:11, ../inc/theme-info/theme-info.php:12, ../inc/theme-info/theme-info.php:56
+msgid "Thryve Corporate"
+msgstr ""
+
+#: ../functions.php:174
+msgid "Front Page"
+msgstr ""
+
+#: ../functions.php:175
+msgid "Thryvewp pages"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:47
+msgid "Upgrade to Thryve Corporate Pro!"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:50
+msgid "🚀 Unlock advanced features, premium blocks, enhanced customization options, priority support, and performance optimizations designed for professional business websites. Thryve Corporate Pro helps you build faster, more flexible, and scalable websites with a premium design experience."
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:54
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:57, ../inc/theme-info/theme-info.php:163
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:57
+msgid "A modern Full Site Editing WordPress theme built for businesses, agencies, and professionals."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:59, ../inc/theme-info/theme-info.php:159
+msgid "Buy Pro"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:68
+msgid "Full Site Editing"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:69
+msgid "Customize your entire website using Gutenberg blocks."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:74
+msgid "Fast & Lightweight"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:75
+msgid "Optimized for speed and performance."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:80
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:81
+msgid "Fully compatible with WooCommerce."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:86
+msgid "Responsive Design"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:87
+msgid "Looks perfect on all devices."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:94
+msgid "Getting Started Guide"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:97
+msgid "Setup Front Page and Post Page"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:99
+msgid "Settings → Reading."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:100
+msgid "Select \"A static page\" under Your homepage displays."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:101
+msgid "Choose your Homepage and Posts page."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:102
+msgid "Click Save Changes."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:106
+msgid "Change Favicon and Site Logo"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:108
+msgid "Go to Appearance → Customize or Appearance → Editor."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:109
+msgid "Open Site Identity."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:110
+msgid "Upload your Logo and Site Icon."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:111
+msgid "Click Publish / Save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:115
+msgid "Edit Front Page Template"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:117
+msgid "Go to Appearance → Editor."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:118
+msgid "Open Templates → Front Page."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:119
+msgid "Edit blocks and layout as needed."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:120
+msgid "Click Save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:124
+msgid "Add Custom CSS"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:126
+msgid "Go to Appearance → Editor"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:127
+msgid "Click Styles → Additional CSS."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:128
+msgid "Add your CSS code and save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:133
+msgid "What I Will Get on Pro Version"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:135
+msgid "Additional Patterns & Templates."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:136
+msgid "Regular updates and compatibility checks."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:137
+msgid "Dedicated support & some customization help."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:138
+msgid "Theme setup and demo file installation."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:139
+msgid "Upcoming features and updates."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:144
+msgid "How to Install Pro Version"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:146
+msgid "After purchasing the Pro version, log in to Freemius using the username and password you received at the time of purchase."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:147
+msgid "Download the Pro version ZIP file from your Freemius account."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:148
+msgid "Go to your WordPress Dashboard → Appearance → Themes → Add New."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:149
+msgid "Click on Upload Theme and upload the downloaded ZIP file."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:150
+msgid "Activate the theme and enter your license key to enable Pro features."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:167
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/404.php:15
+msgid "404 – Resource Not Available"
+msgstr ""
+
+#: ../patterns/404.php:19
+msgid "We couldn’t find the page you were looking for. Explore our website or navigate back to the homepage to continue."
+msgstr ""
+
+#: ../patterns/about-us-two.php:15
+msgid "Our Focus is on Delivering Superior Value to our Clients for Company Modification."
+msgstr ""
+
+#: ../patterns/about-us-two.php:21, ../patterns/about-us.php:58
+msgid "View more about us"
+msgstr ""
+
+#: ../patterns/about-us-two.php:30, ../patterns/about-us.php:22
+msgid "Si dictumst velit congue curabitur felis erat odio adipiscing porta molestie risus nunc pharetra suspendisse ut metus sollicitudin eget nostra penatibus hendrerit mauris mattis lobortis donec vel integer natoque justo et luctus tortor ridiculus sociosqu lacus enim morbi nulla nisi habitasse cubilia ornare sed scelerisque phasellus urna tincidunt vestibulum inceptos amet aliquet fusce montes interdum"
+msgstr ""
+
+#: ../patterns/about-us-two.php:40, ../patterns/about-us.php:32
+msgid "Our Mission"
+msgstr ""
+
+#: ../patterns/about-us-two.php:44, ../patterns/about-us-two.php:58, ../patterns/about-us.php:36, ../patterns/about-us.php:50
+msgid "Semper phasellus sagittis in consectetuer sociosqu eleifend sed eget nam viverra potenti dignissim"
+msgstr ""
+
+#: ../patterns/about-us-two.php:54, ../patterns/about-us.php:46
+msgid "Our Vision"
+msgstr ""
+
+#: ../patterns/about-us.php:13
+msgid "About Thryve Corporate"
+msgstr ""
+
+#: ../patterns/archive-product.php:51
+msgid "No products found"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "You can try"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "clearing any filters"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "or head to our"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "store's home"
+msgstr ""
+
+#: ../patterns/archive.php:42, ../patterns/index.php:42, ../patterns/search.php:42
+msgid "No Results Found"
+msgstr ""
+
+#: ../patterns/articles.php:13
+msgid "Latest News"
+msgstr ""
+
+#: ../patterns/articles.php:18, ../patterns/values.php:18
+msgid "Ad condimentum pharetra habitant leo eu gravida dignissim parturient lorem curae bibendum vivamus donec libero rutrum elementum euismod etiam et ipsum class sagittis"
+msgstr ""
+
+#: ../patterns/articles.php:36
+msgid "No results"
+msgstr ""
+
+#: ../patterns/contact-us.php:15
+msgid "Get A Free Quote"
+msgstr ""
+
+#: ../patterns/contact-us.php:20, ../patterns/services-two.php:18, ../patterns/services.php:26, ../patterns/values.php:48
+msgid "Habitasse lacinia tempor augue penatibus euismod a dis malesuada tempus vulputate est id dignissim mauris posuere metus auctor morbi facilisis volutpat aliquam venenatis"
+msgstr ""
+
+#: ../patterns/contact-us.php:31
+msgid "Email:"
+msgstr ""
+
+#: ../patterns/contact-us.php:31
+msgid "info@gmail.com"
+msgstr ""
+
+#: ../patterns/contact-us.php:41
+msgid "Phone:"
+msgstr ""
+
+#: ../patterns/contact-us.php:41
+msgid "+12 - 345 - 56878"
+msgstr ""
+
+#: ../patterns/contact-us.php:51
+msgid "Location:"
+msgstr ""
+
+#: ../patterns/contact-us.php:51
+msgid "United States"
+msgstr ""
+
+#: ../patterns/contact-us.php:57, ../patterns/stats.php:24
+msgid "Book an appointment"
+msgstr ""
+
+#: ../patterns/cta.php:12, ../patterns/featured-banner.php:36
+msgid "Boost Your Business with Expert Consulting."
+msgstr ""
+
+#: ../patterns/cta.php:17, ../patterns/featured-banner.php:41
+msgid "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words."
+msgstr ""
+
+#: ../patterns/featured-banner.php:23, ../patterns/header.php:19
+msgid "contact Us"
+msgstr ""
+
+#: ../patterns/featured-banner.php:32
+msgid "Expert Guidance For Sustainable Growth"
+msgstr ""
+
+#: ../patterns/featured-banner.php:47, ../patterns/services.php:106
+msgid "Read more"
+msgstr ""
+
+#: ../patterns/features.php:22
+msgid "We are your shield"
+msgstr ""
+
+#: ../patterns/features.php:26, ../patterns/features.php:50, ../patterns/features.php:74, ../patterns/features.php:98, ../patterns/services-two.php:38, ../patterns/services-two.php:60, ../patterns/services-two.php:82
+msgid "Semper tincidunt in dui nec cursus feugiat si venenatis auctor conubia dolor dictumst non pellentesque libero sem senectus"
+msgstr ""
+
+#: ../patterns/features.php:31
+msgid "Get protected"
+msgstr ""
+
+#: ../patterns/features.php:46
+msgid "Industry Wide Coverage"
+msgstr ""
+
+#: ../patterns/features.php:55
+msgid "view all industry"
+msgstr ""
+
+#: ../patterns/features.php:70
+msgid "Make More, Keep More"
+msgstr ""
+
+#: ../patterns/features.php:79, ../patterns/services.php:15
+msgid "our services"
+msgstr ""
+
+#: ../patterns/features.php:94
+msgid "We want to Talk"
+msgstr ""
+
+#: ../patterns/features.php:103
+msgid "contact us today"
+msgstr ""
+
+#: ../patterns/footer.php:18
+msgid "Natoque dictum lorem sagittis in pretium pharetra cras suscipit sed taciti platea quisque integer quam auctor commodo ullamcorper maximus pede dolor"
+msgstr ""
+
+#: ../patterns/footer.php:22
+msgid "Email: Example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:26
+msgid "Phone: +01-123-4567-123"
+msgstr ""
+
+#: ../patterns/footer.php:35
+msgid "About"
+msgstr ""
+
+#: ../patterns/footer.php:51
+msgid "Quick Links"
+msgstr ""
+
+#: ../patterns/footer.php:61
+msgid "Privacy"
+msgstr ""
+
+#: ../patterns/footer.php:83
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:83
+msgid "WordPress"
+msgstr ""
+
+#: ../patterns/index.php:13
+msgid "Our Blog"
+msgstr ""
+
+#: ../patterns/services-two.php:13
+msgid "Our Services"
+msgstr ""
+
+#: ../patterns/services-two.php:34
+msgid "Our Mission and Value"
+msgstr ""
+
+#: ../patterns/services-two.php:56
+msgid "Why Choose Us?"
+msgstr ""
+
+#: ../patterns/services-two.php:78
+msgid "Our Leadership"
+msgstr ""
+
+#: ../patterns/services.php:21
+msgid "Strategic Business Growth Solutions"
+msgstr ""
+
+#: ../patterns/services.php:43
+msgid "Business Consulting"
+msgstr ""
+
+#: ../patterns/services.php:48
+msgid "Semper duis ipsum urna ac integer gravida sodales platea tellus dui sagittis tempus ridiculus bibendum proin tortor enim cras quisque est mauris consequat himenaeos efficitur amet"
+msgstr ""
+
+#: ../patterns/services.php:59
+msgid "Online Business Consulting"
+msgstr ""
+
+#: ../patterns/services.php:69
+msgid "Portfolio Management"
+msgstr ""
+
+#: ../patterns/services.php:79
+msgid "Assets Allocation"
+msgstr ""
+
+#: ../patterns/services.php:89
+msgid "Regulatory Investigations"
+msgstr ""
+
+#: ../patterns/services.php:99
+msgid "Startup Consulting"
+msgstr ""
+
+#: ../patterns/sidebar.php:16
+msgid "Call to Action"
+msgstr ""
+
+#: ../patterns/sidebar.php:21
+msgid "Experience Seamless Style and Speed"
+msgstr ""
+
+#: ../patterns/sidebar.php:26
+msgid "Explore More"
+msgstr ""
+
+#: ../patterns/sidebar.php:38
+msgid "Post Category"
+msgstr ""
+
+#: ../patterns/sidebar.php:46
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:54
+msgid "Social Links"
+msgstr ""
+
+#: ../patterns/single-product.php:53
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/stats.php:14
+msgid "Our Impact"
+msgstr ""
+
+#: ../patterns/stats.php:18
+msgid "Habitasse lacinia tempor augue penatibus euismod a dis malesuada tempus vulputate est id dignissim mauris posuere metus auctor morbi"
+msgstr ""
+
+#: ../patterns/stats.php:33
+msgid "30"
+msgstr ""
+
+#: ../patterns/stats.php:37
+msgid "/Year"
+msgstr ""
+
+#: ../patterns/stats.php:42
+msgid "Keep Full Faith"
+msgstr ""
+
+#: ../patterns/stats.php:49
+msgid "15"
+msgstr ""
+
+#: ../patterns/stats.php:53
+msgid "/Address"
+msgstr ""
+
+#: ../patterns/stats.php:58
+msgid "Consulting Branch"
+msgstr ""
+
+#: ../patterns/stats.php:65
+msgid "80"
+msgstr ""
+
+#: ../patterns/stats.php:69
+msgid "/Consultant"
+msgstr ""
+
+#: ../patterns/stats.php:74
+msgid "Professional"
+msgstr ""
+
+#: ../patterns/stats.php:74
+msgid "Dedicated"
+msgstr ""
+
+#: ../patterns/stats.php:81
+msgid "1k"
+msgstr ""
+
+#: ../patterns/stats.php:85
+msgid "/Clients"
+msgstr ""
+
+#: ../patterns/stats.php:90
+msgid "Happy and Trust Customers"
+msgstr ""
+
+#: ../patterns/testimonials.php:16
+msgid "Testimonials"
+msgstr ""
+
+#: ../patterns/testimonials.php:21
+msgid "Giles and his team at Herrington Business Consulting have been absolutely great to work with and they definitely have gone above and beyond for us by streamlining all of our accounts so that we can focus on what we do love to do and continue to grow our business."
+msgstr ""
+
+#: ../patterns/testimonials.php:32
+msgid "Heather Smith"
+msgstr ""
+
+#: ../patterns/testimonials.php:36
+msgid "Director"
+msgstr ""
+
+#: ../patterns/values.php:13
+msgid "Core Values"
+msgstr ""
+
+#: ../patterns/values.php:37
+msgid "integrity"
+msgstr ""
+
+#: ../patterns/values.php:43
+msgid "Building Trust,"
+msgstr ""
+
+#: ../patterns/values.php:43
+msgid "Ensuring Excellence."
+msgstr ""
+
+#: ../patterns/values.php:59
+msgid "Optimize resource allocation"
+msgstr ""
+
+#: ../patterns/values.php:69
+msgid "Increase revenue streams"
+msgstr ""
+
+#: ../patterns/values.php:79
+msgid "Capitalize on market opportunities"
+msgstr ""

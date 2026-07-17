@@ -1,0 +1,40 @@
+a.button.button-secondary.alignright {
+  color: #fff !important;
+  background: #F24080  !important;
+  font-size: 14px;
+  margin: -5px !important;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: 2px 2px 0px 0px #fff !important;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  min-height: 30px;
+}
+#accordion-section-master_education_upgrade_pro_link h3.accordion-section-title,
+#accordion-section-master_education_get_started_link h3.accordion-section-title,
+#accordion-section-master_education_live_demo_link h3.accordion-section-title{
+  background: #222426 !important;
+  color: #fff !important;
+  font-size: 12px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#accordion-section-master_education_upgrade_pro_link .accordion-section-title:after,
+#accordion-section-master_education_get_started_link .accordion-section-title:after,
+#accordion-section-master_education_live_demo_link .accordion-section-title:after{
+  display: none;
+}
+.customize-pane-parent{
+  overflow-x: hidden !important;
+}
+.control-section-ecommerce-landing-page h3.accordion-section-title{
+  display: none !important;
+}
+.customize-pane-parent .vw-bundle-banner a:focus{
+  outline: unset !important;
+  box-shadow: unset !important;
+}
